@@ -1,7 +1,10 @@
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=hurtheat&show_icons=true&icon_color=CE1D2D&text_color=718096&bg_color=ffffff&hide_title=true"/>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hurtheat)](https://github.com/anuraghazra/github-readme-stats)
-### Hi there 👋
-
+ ### Hello ~ 👋
+ 
+- 🔭 I’m currently working on Java
+- 🌱 I’m currently learning the basics
+- 😄 Aspiration: The epidemic is over
 <!--
 **hurtheat/hurtheat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
